@@ -5,7 +5,7 @@ body {
     background-color: #fafafa;
   }
   header {
-    background-image: linear-gradient(rgba(95, 165, 113, 0.4), #b3e4ff84), url('assets/globe.jpg');
+    background-image: linear-gradient(rgba(95, 165, 113, 0.4), #b3e4ff84), url('/assets/globe.jpg');
     background-size: cover;
     background-position: center;
     color: #fff;
